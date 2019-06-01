@@ -1,1 +1,2 @@
+# Simple budget calculator.
 
